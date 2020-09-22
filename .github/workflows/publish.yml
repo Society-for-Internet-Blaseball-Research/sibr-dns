@@ -1,0 +1,14 @@
+name: Publish DNS zones
+on:
+  push:
+    branches:
+      - live
+jobs:
+  publish:
+    name: Publish sibr.dev
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - env:
+          GANDI_API_KEY: ${{ secrets.GANDI_API_KEY }}
+        run: bin/gandi.sh sibr.dev
