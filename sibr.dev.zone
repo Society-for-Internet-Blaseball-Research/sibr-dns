@@ -1,0 +1,8 @@
+@ 86400 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1234567890 10800 3600 604800 10800
+@ 1800 IN ALIAS society-for-internet-blaseball-research.github.io.
+@ 10800 IN MX 10 spool.mail.gandi.net.
+@ 10800 IN MX 50 fb.mail.gandi.net.
+@ 10800 IN TXT "v=spf1 include:_mailcust.gandi.net ?all"
+api 1800 IN CNAME api.blaseball-reference.com.
+reblase 1800 IN CNAME blase.srv.astr.cc.
+stlats 1800 IN CNAME society-for-internet-blaseball-research.github.io.
