@@ -7,4 +7,4 @@ api 1800 IN CNAME api.blaseball-reference.com.
 reblase 1800 IN CNAME blase.srv.astr.cc.
 stlats 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 papers 1800 IN CNAME society-for-internet-blaseball-research.github.io.
-vote 1800 IN CNAME vote.beefox.xyz
+vote 1800 IN CNAME vote.beefox.xyz.
