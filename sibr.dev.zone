@@ -4,7 +4,7 @@
 @ 10800 IN MX 50 fb.mail.gandi.net.
 @ 10800 IN TXT "v=spf1 include:_mailcust.gandi.net ?all"
 api 1800 IN CNAME srv.astr.cc.
-reblase 1800 IN CNAME blase.srv.astr.cc.
+reblase 1800 IN CNAME reblase.netlify.app.
 stlats 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 papers 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 squid 1800 IN CNAME society-for-internet-blaseball-research.github.io.
