@@ -9,3 +9,4 @@ stlats 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 papers 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 squid 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vote 1800 IN CNAME vote.beefox.xyz.
+www 1800 IN CNAME webredir.gandi.net.
