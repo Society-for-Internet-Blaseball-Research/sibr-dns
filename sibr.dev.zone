@@ -11,6 +11,6 @@ squid 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vibecheck 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vote 1800 IN CNAME vote.beefox.xyz.
 www 1800 IN CNAME webredir.gandi.net.
-server IN A 46.4.52.89
-traefik IN A 46.4.52.89
-portainer IN A 46.4.52.89
+server 1800 IN A 46.4.52.89
+traefik 1800 IN A 46.4.52.89
+portainer 1800 IN A 46.4.52.89
