@@ -12,6 +12,6 @@ vibecheck 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vote 1800 IN CNAME vote.beefox.xyz.
 www 1800 IN CNAME webredir.gandi.net.
 server 1800 IN A 46.4.52.89
-traefik 1800 IN CNAME server.sibr.dev
-portainer 1800 IN CNAME server.sibr.dev
-wiki-test 1800 IN CNAME server.sibr.dev
+traefik 1800 IN CNAME server.sibr.dev.
+portainer 1800 IN CNAME server.sibr.dev.
+wiki-test 1800 IN CNAME server.sibr.dev.
