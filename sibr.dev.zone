@@ -15,3 +15,4 @@ server 1800 IN A 46.4.52.89
 traefik 1800 IN CNAME server.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 wiki-test 1800 IN CNAME server.sibr.dev.
+api-test 1800 IN CNAME server.sibr.dev.
