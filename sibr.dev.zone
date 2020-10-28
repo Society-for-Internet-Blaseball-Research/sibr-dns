@@ -16,4 +16,5 @@ traefik 1800 IN CNAME server.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 matomo 1800 IN CNAME server.sibr.dev.
 api-test 1800 IN CNAME server.sibr.dev.
+onomancer 1800 IN CNAME server.sibr.dev.
 docs 1800 IN CNAME ingress.stoplight.io.
