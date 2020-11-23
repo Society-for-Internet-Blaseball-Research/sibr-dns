@@ -23,4 +23,6 @@ wordpress-test 1800 IN CNAME server.sibr.dev.
 docs 1800 IN CNAME ingress.stoplight.io.
 blases-loaded 1800 IN CNAME rangerrick.github.io.
 datablase 1800 IN A 138.197.236.34
+; The two entries below are for chartographer.sibr.dev (SSL verification and CNAME)
 _eb7bff72dec2ecfa4e0a7050a53c1750.sibr.dev. 1800 IN CNAME _bf5e4db964f86a61dd1fca522a3eb526.wggjkglgrm.acm-validations.aws.
+chartographer 1800 IN CNAME d2st5bc1v8z9cl.cloudfront.net.
