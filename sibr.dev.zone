@@ -19,6 +19,7 @@ matomo 1800 IN CNAME server.sibr.dev.
 api-test 1800 IN CNAME server.sibr.dev.
 onomancer 1800 IN CNAME server.sibr.dev.
 pgadmin 1800 IN CNAME server.sibr.dev.
+wordpress-test 1800 IN CNAME server.sibr.dev.
 docs 1800 IN CNAME ingress.stoplight.io.
 blases-loaded 1800 IN CNAME rangerrick.github.io.
 datablase 1800 IN A 138.197.236.34
