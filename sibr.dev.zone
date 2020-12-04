@@ -6,7 +6,7 @@
 
 www 1800 IN CNAME webredir.gandi.net.
 server 1800 IN A 46.4.52.89
-datablase 600 IN A 138.197.236.34
+datablase 600 IN A 46.4.52.89
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
 docs 1800 IN CNAME ingress.stoplight.io.
