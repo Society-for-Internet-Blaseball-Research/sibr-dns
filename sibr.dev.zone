@@ -6,7 +6,7 @@
 
 www 1800 IN CNAME webredir.gandi.net.
 server 1800 IN A 46.4.52.89
-datablase 600 IN A 46.4.52.89
+datablase 1800 IN A 46.4.52.89
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
 docs 1800 IN CNAME ingress.stoplight.io.
@@ -29,7 +29,7 @@ portainer 1800 IN CNAME server.sibr.dev.
 traefik 1800 IN CNAME server.sibr.dev.
 wordpress-test 1800 IN CNAME server.sibr.dev.
 
-api 1800 IN CNAME srv.astr.cc.
+api 300 IN CNAME srv.astr.cc.
 vote 1800 IN CNAME vote.beefox.xyz.
 
 ; The two entries below are for chartographer.sibr.dev (SSL verification and CNAME)
