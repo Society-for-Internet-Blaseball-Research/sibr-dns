@@ -19,6 +19,7 @@ squid 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 stlats 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vibecheck 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 
+api 600 IN CNAME server.sibr.dev.
 api-test 1800 IN CNAME server.sibr.dev.
 crisp 1800 IN CNAME server.sibr.dev.
 internal-wiki 1800 IN CNAME server.sibr.dev.
@@ -29,7 +30,6 @@ portainer 1800 IN CNAME server.sibr.dev.
 traefik 1800 IN CNAME server.sibr.dev.
 wordpress-test 1800 IN CNAME server.sibr.dev.
 
-api 300 IN CNAME srv.astr.cc.
 vote 1800 IN CNAME vote.beefox.xyz.
 
 ; The two entries below are for chartographer.sibr.dev (SSL verification and CNAME)
