@@ -14,6 +14,7 @@ blases-loaded 1800 IN CNAME rangerrick.github.io.
 reblase 1800 IN CNAME reblase.netlify.app.
 iab-questions 1800 IN CNAME dlareau.github.io.
 
+linescore 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 papers 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 salmon 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 squid 1800 IN CNAME society-for-internet-blaseball-research.github.io.
