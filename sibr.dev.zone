@@ -1,8 +1,9 @@
 @ 86400 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1234567891 10800 3600 604800 10800
 @ 1800 IN ALIAS society-for-internet-blaseball-research.github.io.
-@ 10800 IN MX 10 spool.mail.gandi.net.
-@ 10800 IN MX 50 fb.mail.gandi.net.
-@ 10800 IN TXT "v=spf1 include:_mailcust.gandi.net ?all"
+
+@ 60 IN MX 10 spool.mail.gandi.net.
+@ 60 IN MX 50 fb.mail.gandi.net.
+@ 60 IN TXT "v=spf1 include:_mailcust.gandi.net ?all"
 
 www 1800 IN CNAME webredir.gandi.net.
 server 1800 IN A 46.4.52.89
