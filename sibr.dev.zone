@@ -51,3 +51,8 @@ vote 1800 IN CNAME vote.beefox.xyz.
 ; The two entries below are for chartographer.sibr.dev (SSL verification and CNAME)
 _eb7bff72dec2ecfa4e0a7050a53c1750.sibr.dev. 1800 IN CNAME _bf5e4db964f86a61dd1fca522a3eb526.wggjkglgrm.acm-validations.aws.
 chartographer 1800 IN CNAME d2st5bc1v8z9cl.cloudfront.net.
+
+; mail
+mail._domainkey    300 IN    TXT    "v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApdO9z/0MldShRVRjKz/A8bHtjuvLFos3i20hvEZQr2PDWuMqlLknxCH89O+s2ksV13sp/0LcPwiKsrd+Q10U9nKpu91ZDiW2CX2QOrk6Viru09RjbnbiBirJOAJmrmnnppHM2I3vChWZ97N0EWYassjZjbdW8h1up6gP1hVR/8sCK3Dhsh4p4SXNNkMZ3Fz6TEr4UsrAtxzFaZZe8/uircwi8qw1lanWMJxTRBlroY80kTdj7BdLjfPfD9DxDG3ovw8yaZdN1UwveSLXaiLAPihTHXlD+vpSVab+TlIvg6tBGQF9Q//q2P6eFhYGLV+qhdsmzi7EEg/UDKd3rzNnNQIDAQAB"  ; ----- DKIM key mail for sibr.dev
+sibr.dev.          300 IN    TXT    "v=spf1 mx ~all"
+sibr.dev.          300 IN    MX     1 mail.sibr.dev.
