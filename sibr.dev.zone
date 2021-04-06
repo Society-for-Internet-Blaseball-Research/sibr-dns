@@ -33,6 +33,7 @@ discord 1800 IN CNAME server.sibr.dev.
 faculty 1800 IN CNAME server.sibr.dev.
 files 1800 IN CNAME server.sibr.dev.
 internal-wiki 1800 IN CNAME server.sibr.dev.
+mail 1800 IN CNAME server.sibr.dev.
 matomo 1800 IN CNAME server.sibr.dev.
 netdata 1800 IN CNAME server.sibr.dev.
 onomancer 1800 IN CNAME server.sibr.dev.
