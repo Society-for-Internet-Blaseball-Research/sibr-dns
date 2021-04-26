@@ -39,6 +39,7 @@ pgadmin 1800 IN CNAME server.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 proxy 1800 IN CNAME server.sibr.dev.
 simsim 1800 IN CNAME server.sibr.dev.
+stadium-viewer 1800 IN CNAME server.sibr.dev.
 traefik 1800 IN CNAME server.sibr.dev.
 wordpress-test 1800 IN CNAME server.sibr.dev.
 
