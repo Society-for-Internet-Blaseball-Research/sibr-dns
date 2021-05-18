@@ -25,6 +25,7 @@ vibecheck 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 api 1800 IN CNAME server.sibr.dev.
 api-test 1800 IN CNAME server.sibr.dev.
 cachet 1800 IN CNAME server.sibr.dev.
+crimes 1800 IN CNAME server.sibr.dev.
 crisp 1800 IN CNAME server.sibr.dev.
 csv 1800 IN CNAME server.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
