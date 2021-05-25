@@ -32,6 +32,7 @@ cors-test 1800 IN CNAME server.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
 faculty 1800 IN CNAME server.sibr.dev.
 files 1800 IN CNAME server.sibr.dev.
+glolf 1800 IN CNAME server.sibr.dev.
 hloroscopes 1800 IN CNAME server.sibr.dev.
 internal-wiki 1800 IN CNAME server.sibr.dev.
 levels 1800 IN CNAME server.sibr.dev.
