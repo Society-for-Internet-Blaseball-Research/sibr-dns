@@ -13,6 +13,7 @@ reblase 1800 IN CNAME reblase.netlify.app.
 iab-questions 1800 IN CNAME dlareau.github.io.
 whichtool 1800 IN CNAME kawa-kitsuragi.github.io.
 
+glitter 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 linescore 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 papers 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 renovations 1800 IN CNAME society-for-internet-blaseball-research.github.io.
