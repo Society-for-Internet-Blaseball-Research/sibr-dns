@@ -1,7 +1,8 @@
 @ 86400 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1234567891 10800 3600 604800 10800
 @ 1800 IN ALIAS society-for-internet-blaseball-research.github.io.
 
-www 1800 IN CNAME webredir.gandi.net.
+research 3600 IN CNAME webredir.gandi.net.
+www 3600 IN CNAME webredir.gandi.net.
 server 1800 IN A 46.4.52.89
 server-v6 1800 IN AAAA 2a01:4f8:140:1223::2
 datablase 1800 IN A 46.4.52.89
