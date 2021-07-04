@@ -36,6 +36,7 @@ cors-test 1800 IN CNAME server.sibr.dev.
 corsmechanics 1800 IN CNAME server.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
 elk 1800 IN CNAME server.sibr.dev.
+etr 1800 IN CNAME server.sibr.dev.
 faculty 1800 IN CNAME server.sibr.dev.
 files 1800 IN CNAME server.sibr.dev.
 glolfwiki 1800 IN CNAME server.sibr.dev.
