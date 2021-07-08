@@ -43,6 +43,7 @@ glolfwiki 1800 IN CNAME server.sibr.dev.
 highlights 1800 IN CNAME server.sibr.dev.
 hloroscopes 1800 IN CNAME server.sibr.dev.
 internal-wiki 1800 IN CNAME server.sibr.dev.
+jq 1800 IN CNAME server.sibr.dev.
 levels 1800 IN CNAME server.sibr.dev.
 mail 1800 IN CNAME server.sibr.dev.
 matomo 1800 IN CNAME server.sibr.dev.
