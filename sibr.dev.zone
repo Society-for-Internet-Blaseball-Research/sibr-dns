@@ -12,6 +12,7 @@ docs 1800 IN CNAME ingress.stoplight.io.
 blases-loaded 1800 IN CNAME rangerrick.github.io.
 reblase 1800 IN CNAME reblase.netlify.app.
 iab-questions 1800 IN CNAME dlareau.github.io.
+feedeck 1800 IN CNAME jmaliksi.github.io.
 whichtool 1800 IN CNAME kawa-kitsuragi.github.io.
 
 glitter 1800 IN CNAME society-for-internet-blaseball-research.github.io.
@@ -40,7 +41,6 @@ elk 1800 IN CNAME server.sibr.dev.
 etr 1800 IN CNAME server.sibr.dev.
 faculty 1800 IN CNAME server.sibr.dev.
 files 1800 IN CNAME server.sibr.dev.
-feedeck 1800 IN CNAME server.sibr.dev.
 glolfwiki 1800 IN CNAME server.sibr.dev.
 highlights 1800 IN CNAME server.sibr.dev.
 hloroscopes 1800 IN CNAME server.sibr.dev.
