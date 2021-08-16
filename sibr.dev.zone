@@ -13,6 +13,7 @@ blases-loaded 1800 IN CNAME rangerrick.github.io.
 reblase 1800 IN CNAME reblase.netlify.app.
 iab-questions 1800 IN CNAME dlareau.github.io.
 feedeck 1800 IN CNAME jmaliksi.github.io.
+playoffstatus 1800 IN CNAME mixolyde.github.io.
 whichtool 1800 IN CNAME kawa-kitsuragi.github.io.
 
 cursed 1800 in CNAME society-for-internet-blaseball-research.github.io.
