@@ -15,6 +15,7 @@ iab-questions 1800 IN CNAME dlareau.github.io.
 feedeck 1800 IN CNAME jmaliksi.github.io.
 playoffstatus 1800 IN CNAME mixolyde.github.io.
 whichtool 1800 IN CNAME kawa-kitsuragi.github.io.
+rng 1800 IN CNAME dannybd.github.io.
 
 cursed 1800 in CNAME society-for-internet-blaseball-research.github.io.
 glitter 1800 IN CNAME society-for-internet-blaseball-research.github.io.
