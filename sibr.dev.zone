@@ -58,6 +58,7 @@ onomancer 1800 IN CNAME server.sibr.dev.
 pgadmin 1800 IN CNAME server.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 proxy 1800 IN CNAME server.sibr.dev.
+edge.primary 1800 IN CNAME server.sibr.dev.
 sclorigami 1800 IN CNAME server.sibr.dev.
 simsim 1800 IN CNAME server.sibr.dev.
 snacks 1800 IN CNAME server.sibr.dev.
