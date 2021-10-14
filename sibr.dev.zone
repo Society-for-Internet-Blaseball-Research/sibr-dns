@@ -10,14 +10,14 @@ secondary-v6 1800 IN AAAA 2a01:4f8:251:8de::2
 datablase 1800 IN A 46.4.52.89
 
 ; servers
-; secondary (carol revenant)
-carol-revenant 1800 IN CNAME secondary.sibr.dev.
-revenant 1800 IN CNAME secondary.sibr.dev.
-rev 1800 IN CNAME secondary.sibr.dev.
-; primary (emily dogbone)
-emily-dogbone 1800 IN CNAME server.sibr.dev.
-dogbone 1800 IN CNAME server.sibr.dev.
-bone 1800 IN CNAME server.sibr.dev.
+; current primary, future secondary (carol revenant)
+carol-revenant 1800 IN CNAME server.sibr.dev.
+revenant 1800 IN CNAME server.sibr.dev.
+rev 1800 IN CNAME server.sibr.dev.
+; current secondary, future primary (emily dogbone)
+emily-dogbone 1800 IN CNAME secondary.sibr.dev.
+dogbone 1800 IN CNAME secondary.sibr.dev.
+bone 1800 IN CNAME secondary.sibr.dev.
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
 docs 1800 IN CNAME ingress.stoplight.io.
