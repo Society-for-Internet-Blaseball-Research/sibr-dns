@@ -57,7 +57,7 @@ elk 1800 IN CNAME server.sibr.dev.
 etr 1800 IN CNAME server.sibr.dev.
 faculty 1800 IN CNAME server.sibr.dev.
 files 1800 IN CNAME server.sibr.dev.
-glolfwiki 1800 IN CNAME server.sibr.dev.
+glolfwiki 600 IN CNAME server.sibr.dev.
 highlights 1800 IN CNAME server.sibr.dev.
 hloroscopes 1800 IN CNAME server.sibr.dev.
 internal-wiki 1800 IN CNAME server.sibr.dev.
@@ -66,7 +66,7 @@ levels 1800 IN CNAME server.sibr.dev.
 mail 1800 IN CNAME server.sibr.dev.
 matomo 1800 IN CNAME server.sibr.dev.
 netdata 1800 IN CNAME server.sibr.dev.
-onomancer 1800 IN CNAME server.sibr.dev.
+onomancer 600 IN CNAME server.sibr.dev.
 pgadmin 1800 IN CNAME server.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 proxy 1800 IN CNAME server.sibr.dev.
@@ -75,7 +75,7 @@ sclorigami 1800 IN CNAME server.sibr.dev.
 simsim 1800 IN CNAME server.sibr.dev.
 snacks 1800 IN CNAME server.sibr.dev.
 stadium-viewer 1800 IN CNAME server.sibr.dev.
-telnet 1800 IN CNAME server.sibr.dev.
+telnet 600 IN CNAME server.sibr.dev.
 tiny 1800 IN CNAME server.sibr.dev.
 traefik 1800 IN CNAME server.sibr.dev.
 traefik-secondary 1800 IN CNAME secondary.sibr.dev.
