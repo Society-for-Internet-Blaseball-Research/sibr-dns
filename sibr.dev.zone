@@ -55,8 +55,8 @@ corsmechanics 1800 IN CNAME server.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
 elk 1800 IN CNAME server.sibr.dev.
 etr 1800 IN CNAME server.sibr.dev.
-faculty 1800 IN CNAME server.sibr.dev.
-files 1800 IN CNAME server.sibr.dev.
+faculty 600 IN CNAME server.sibr.dev.
+files 600 IN CNAME server.sibr.dev.
 glolfwiki 600 IN CNAME server.sibr.dev.
 highlights 1800 IN CNAME server.sibr.dev.
 hloroscopes 1800 IN CNAME server.sibr.dev.
