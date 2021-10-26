@@ -58,7 +58,7 @@ etr 1800 IN CNAME server.sibr.dev.
 faculty 600 IN CNAME primary.sibr.dev.
 files 600 IN CNAME primary.sibr.dev.
 glolfwiki 300 IN CNAME server.sibr.dev.
-highlights 300 IN CNAME server.sibr.dev.
+highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME server.sibr.dev.
 internal-wiki 300 IN CNAME server.sibr.dev.
 jq 300 IN CNAME server.sibr.dev.
