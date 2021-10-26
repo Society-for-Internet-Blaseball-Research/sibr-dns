@@ -76,7 +76,7 @@ simsim 1800 IN CNAME server.sibr.dev.
 snacks 1800 IN CNAME server.sibr.dev.
 stadium-viewer 1800 IN CNAME server.sibr.dev.
 telnet 600 IN CNAME primary.sibr.dev.
-tiny 1800 IN CNAME primary.sibr.dev.
+tiny 1800 IN CNAME server.sibr.dev.
 traefik 1800 IN CNAME server.sibr.dev.
 traefik-secondary 1800 IN CNAME primary.sibr.dev.
 wordpress-test 1800 IN CNAME server.sibr.dev.
