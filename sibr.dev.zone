@@ -49,7 +49,7 @@ before-test 1800 IN CNAME primary.sibr.dev.
 cachet 1800 IN CNAME server.sibr.dev.
 crimes 1800 IN CNAME server.sibr.dev.
 crisp 1800 IN CNAME primary.sibr.dev.
-csv 1800 IN CNAME server.sibr.dev.
+csv 1800 IN CNAME primary.sibr.dev.
 cors-test 1800 IN CNAME server.sibr.dev.
 corsmechanics 1800 IN CNAME server.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
