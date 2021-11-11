@@ -47,6 +47,7 @@ api-test 300 IN CNAME server.sibr.dev.
 before 1800 IN CNAME primary.sibr.dev.
 before-test 1800 IN CNAME primary.sibr.dev.
 bricks 1800 IN CNAME primary.sibr.dev.
+bricks-but-with-less-negative-caching 1800 IN CNAME primary.sibr.dev.
 cachet 300 IN CNAME server.sibr.dev.
 crimes 300 IN CNAME server.sibr.dev.
 crisp 1800 IN CNAME primary.sibr.dev.
