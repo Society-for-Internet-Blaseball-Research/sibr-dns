@@ -77,7 +77,7 @@ sclorigami 300 IN CNAME server.sibr.dev.
 shleets 1800 IN CNAME server.sibr.dev.
 simsim 300 IN CNAME server.sibr.dev.
 snacks 300 IN CNAME server.sibr.dev.
-stadium-viewer 300 IN CNAME primary.sibr.dev.
+stadium-viewer 300 IN CNAME server.sibr.dev.
 telnet 600 IN CNAME primary.sibr.dev.
 tiny 1800 IN CNAME primary.sibr.dev.
 traefik 300 IN CNAME server.sibr.dev.
