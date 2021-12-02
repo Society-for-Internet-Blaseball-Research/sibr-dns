@@ -97,5 +97,8 @@ mail._domainkey    300 IN    TXT    "v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhki
 sibr.dev.          300 IN    TXT    "v=spf1 mx ~all"
 sibr.dev.          300 IN    MX     1 mail.sibr.dev.
 
+; github verification
+_github-challenge-Society-for-Internet-Blaseball-Research.sibr.dev 1800 IN TXT "6717f7d3ed"
+
 titan.voyager 1800 IN A 209.251.245.241
 titan.voyager 1800 IN AAAA 2620:fc:c000:0:5054:ff:fe42:42f1
