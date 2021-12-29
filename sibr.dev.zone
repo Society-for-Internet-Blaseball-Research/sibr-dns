@@ -70,6 +70,7 @@ matomo 300 IN CNAME server.sibr.dev.
 netdata 300 IN CNAME server.sibr.dev.
 onomancer 300 IN CNAME server.sibr.dev.
 pgadmin 300 IN CNAME server.sibr.dev.
+plausible 1800 IN CNAME primary.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 proxy 1800 IN CNAME server.sibr.dev.
 primary-edge 1800 IN CNAME server.sibr.dev.
