@@ -103,3 +103,6 @@ _github-challenge-Society-for-Internet-Blaseball-Research 1800 IN TXT "6717f7d3e
 
 titan.voyager 1800 IN A 209.251.245.241
 titan.voyager 1800 IN AAAA 2620:fc:c000:0:5054:ff:fe42:42f1
+
+; quick test for cert making
+dogbone-who-am-i 300 IN CNAME primary.sibr.dev.
