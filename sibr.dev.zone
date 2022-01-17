@@ -81,7 +81,6 @@ snacks 300 IN CNAME server.sibr.dev.
 stadium-viewer 300 IN CNAME server.sibr.dev.
 surveys 300 IN CNAME server.sibr.dev.
 telnet 600 IN CNAME primary.sibr.dev.
-telnet-test 600 IN CNAME revenant.sibr.dev.
 tiny 1800 IN CNAME primary.sibr.dev.
 traefik 300 IN CNAME server.sibr.dev.
 traefik-secondary 300 IN CNAME primary.sibr.dev.
