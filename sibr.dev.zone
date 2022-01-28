@@ -68,7 +68,7 @@ levels 300 IN CNAME server.sibr.dev.
 mail 1800 IN CNAME primary.sibr.dev.
 matomo 300 IN CNAME server.sibr.dev.
 netdata 300 IN CNAME server.sibr.dev.
-onomancer 300 IN CNAME server.sibr.dev.
+onomancer 300 IN CNAME primary.sibr.dev.
 pgadmin 300 IN CNAME server.sibr.dev.
 plausible 1800 IN CNAME primary.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
