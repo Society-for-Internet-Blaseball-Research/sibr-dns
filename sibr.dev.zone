@@ -64,6 +64,7 @@ glolfwiki 300 IN CNAME server.sibr.dev.
 highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME server.sibr.dev.
 internal-wiki 300 IN CNAME server.sibr.dev.
+jaeger 1800 IN CNAME primary.sibr.dev.
 jq 300 IN CNAME server.sibr.dev.
 levels 300 IN CNAME server.sibr.dev.
 mail 1800 IN CNAME primary.sibr.dev.
