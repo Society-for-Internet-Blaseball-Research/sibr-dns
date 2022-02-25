@@ -12,14 +12,18 @@ primary-v6 1800 IN AAAA 2a01:4f8:251:8de::2
 datablase 1800 IN A 46.4.52.89
 
 ; servers
-; current primary, future secondary (carol revenant)
+; secondary (carol revenant)
 carol-revenant 1800 IN CNAME secondary.sibr.dev.
 revenant 1800 IN CNAME secondary.sibr.dev.
 rev 1800 IN CNAME secondary.sibr.dev.
-; current secondary, future primary (emily dogbone)
+; primary (emily dogbone)
 emily-dogbone 1800 IN CNAME primary.sibr.dev.
 dogbone 1800 IN CNAME primary.sibr.dev.
 bone 1800 IN CNAME primary.sibr.dev.
+; storage box (magma gomes)
+magma-gomes 1800 IN CNAME u292188.your-storagebox.de.
+gomes 1800 IN CNAME u292188.your-storagebox.de.
+magma 1800 IN CNAME u292188.your-storagebox.de.
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
 docs 1800 IN CNAME ingress.stoplight.io.
