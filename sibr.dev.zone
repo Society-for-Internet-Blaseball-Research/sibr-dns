@@ -75,6 +75,7 @@ levels 300 IN CNAME server.sibr.dev.
 mail 1800 IN CNAME primary.sibr.dev.
 matomo 300 IN CNAME server.sibr.dev.
 netdata 300 IN CNAME server.sibr.dev.
+netdata.secondary 300 IN CNAME secondary.sibr.dev.
 onomancer 300 IN CNAME primary.sibr.dev.
 oracle 300 IN CNAME server.sibr.dev.
 pgadmin 300 IN CNAME server.sibr.dev.
