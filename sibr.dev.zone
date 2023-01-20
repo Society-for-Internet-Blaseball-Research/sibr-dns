@@ -54,6 +54,7 @@ api-test 300 IN CNAME server.sibr.dev.
 before 1800 IN CNAME primary.sibr.dev.
 before-test 1800 IN CNAME primary.sibr.dev.
 rep-preview.before-test 1800 IN CNAME primary.sibr.dev.
+blog 1800 IN CNAME secondary.sibr.dev.
 bricks 1800 IN CNAME primary.sibr.dev.
 cachet 300 IN CNAME server.sibr.dev.
 cardstock 1800 IN CNAME primary.sibr.dev.
