@@ -26,6 +26,7 @@ gomes 1800 IN CNAME u292188.your-storagebox.de.
 magma 1800 IN CNAME u292188.your-storagebox.de.
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
+astrology 1800 IN CNAME cname.vercel-dns.com.
 docs 1800 IN CNAME ingress.stoplight.io.
 blases-loaded 1800 IN CNAME rangerrick.github.io.
 reblase 1800 IN CNAME reblase.netlify.app.
