@@ -73,6 +73,7 @@ fed 1800 IN CNAME secondary.sibr.dev.
 files 600 IN CNAME primary.sibr.dev.
 glolfwiki 300 IN CNAME server.sibr.dev.
 grafana 1800 IN CNAME primary.sibr.dev.
+grafana-secondary 1800 IN CNAME secondary.sibr.dev.
 highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME server.sibr.dev.
 internal-wiki 300 IN CNAME server.sibr.dev.
@@ -91,6 +92,7 @@ plausible 1800 IN CNAME primary.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
 proxy 1800 IN CNAME server.sibr.dev.
 prometheus 1800 IN CNAME primary.sibr.dev.
+prometheus-secondary 1800 IN CNAME secondary.sibr.dev.
 primary-edge 1800 IN CNAME server.sibr.dev.
 sclorigami 300 IN CNAME server.sibr.dev.
 shleets 1800 IN CNAME server.sibr.dev.
