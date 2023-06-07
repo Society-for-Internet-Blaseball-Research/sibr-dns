@@ -58,25 +58,18 @@ rep-preview.before-test 1800 IN CNAME primary.sibr.dev.
 blog 1800 IN CNAME secondary.sibr.dev.
 bricks 1800 IN CNAME primary.sibr.dev.
 cachet 300 IN CNAME server.sibr.dev.
-cardstock 1800 IN CNAME primary.sibr.dev.
 crimes 300 IN CNAME server.sibr.dev.
 crisp 1800 IN CNAME primary.sibr.dev.
 csv 1800 IN CNAME primary.sibr.dev.
 compendium 1800 IN CNAME primary.sibr.dev.
-cors-test 1800 IN CNAME server.sibr.dev.
-corsmechanics 300 IN CNAME server.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
 elk 1800 IN CNAME server.sibr.dev.
 etr 1800 IN CNAME server.sibr.dev.
 faculty 600 IN CNAME primary.sibr.dev.
-fed 1800 IN CNAME secondary.sibr.dev.
 files 600 IN CNAME primary.sibr.dev.
 glolfwiki 300 IN CNAME server.sibr.dev.
-grafana 1800 IN CNAME primary.sibr.dev.
-grafana-secondary 1800 IN CNAME secondary.sibr.dev.
 highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME server.sibr.dev.
-internal-wiki 300 IN CNAME server.sibr.dev.
 jaeger 1800 IN CNAME primary.sibr.dev.
 jq 300 IN CNAME server.sibr.dev.
 levels 300 IN CNAME server.sibr.dev.
@@ -90,9 +83,6 @@ oracle 300 IN CNAME server.sibr.dev.
 pgadmin 300 IN CNAME server.sibr.dev.
 plausible 1800 IN CNAME primary.sibr.dev.
 portainer 1800 IN CNAME server.sibr.dev.
-proxy 1800 IN CNAME server.sibr.dev.
-prometheus 1800 IN CNAME primary.sibr.dev.
-prometheus-secondary 1800 IN CNAME secondary.sibr.dev.
 primary-edge 1800 IN CNAME server.sibr.dev.
 sclorigami 300 IN CNAME server.sibr.dev.
 shleets 1800 IN CNAME server.sibr.dev.
@@ -105,6 +95,18 @@ tiny 1800 IN CNAME primary.sibr.dev.
 traefik 300 IN CNAME server.sibr.dev.
 traefik-secondary 300 IN CNAME primary.sibr.dev.
 wordpress-test 1800 IN CNAME server.sibr.dev.
+
+; Old:
+; prometheus 1800 IN CNAME primary.sibr.dev.
+; prometheus-secondary 1800 IN CNAME secondary.sibr.dev.
+; grafana 1800 IN CNAME primary.sibr.dev.
+; grafana-secondary 1800 IN CNAME secondary.sibr.dev.
+; proxy 1800 IN CNAME server.sibr.dev.
+; internal-wiki 300 IN CNAME server.sibr.dev.
+; cardstock 1800 IN CNAME primary.sibr.dev.
+; cors-test 1800 IN CNAME server.sibr.dev.
+; corsmechanics 300 IN CNAME server.sibr.dev.
+; fed 1800 IN CNAME secondary.sibr.dev.
 
 vote 1800 IN CNAME vote.beefox.xyz.
 
