@@ -58,9 +58,9 @@ blog 1800 IN CNAME secondary.sibr.dev.
 bricks 1800 IN CNAME primary.sibr.dev.
 cachet 300 IN CNAME server.sibr.dev.
 crimes 300 IN CNAME server.sibr.dev.
-crisp 300 IN CNAME primary.sibr.dev.
-csv 300 IN CNAME primary.sibr.dev.
-compendium 300 IN CNAME primary.sibr.dev.
+crisp 300 IN CNAME secondary.sibr.dev.
+csv 300 IN CNAME secondary.sibr.dev.
+compendium 300 IN CNAME secondary.sibr.dev.
 discord 1800 IN CNAME server.sibr.dev.
 etr 1800 IN CNAME server.sibr.dev.
 faculty 600 IN CNAME primary.sibr.dev.
@@ -87,7 +87,7 @@ simsim 300 IN CNAME server.sibr.dev.
 snacks 300 IN CNAME server.sibr.dev.
 stadium-viewer 300 IN CNAME server.sibr.dev.
 surveys 300 IN CNAME server.sibr.dev.
-telnet 300 IN CNAME primary.sibr.dev.
+telnet 300 IN CNAME secondary.sibr.dev.
 tiny 1800 IN CNAME primary.sibr.dev.
 traefik 300 IN CNAME server.sibr.dev.
 traefik-secondary 300 IN CNAME primary.sibr.dev.
