@@ -75,7 +75,7 @@ matomo 300 IN CNAME server.sibr.dev.
 netdata 300 IN CNAME server.sibr.dev.
 netdata.secondary 300 IN CNAME secondary.sibr.dev.
 netdata.primary 300 IN CNAME primary.sibr.dev.
-onomancer 300 IN A 95.217.234.173.
+onomancer 300 IN A 95.217.234.173
 oracle 300 IN CNAME server.sibr.dev.
 pgadmin 300 IN CNAME server.sibr.dev.
 plausible 1800 IN CNAME primary.sibr.dev.
