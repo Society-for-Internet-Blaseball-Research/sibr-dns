@@ -13,6 +13,7 @@ datablase 1800 IN A 46.4.52.89
 
 sibr-03-hetzner 1800 IN A 138.201.223.157
 sibr-03-hetzner 1800 IN AAAA 2a01:4f8:173:1b12::2
+*.sibr-03-hetzner 1800 IN CNAME sibr-03-hetzner.sibr.dev.
 parker-skylake 1800 IN CNAME sibr-03-hetzner.sibr.dev.
 parker 1800 IN CNAME sibr-03-hetzner.sibr.dev.
 
