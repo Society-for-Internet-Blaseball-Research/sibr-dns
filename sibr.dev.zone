@@ -18,6 +18,7 @@ parker-skylake 1800 IN CNAME sibr-03-hetzner.sibr.dev.
 parker 1800 IN CNAME sibr-03-hetzner.sibr.dev.
 
 _acme-challenge 1800 IN NS sibr-03-hetzner.sibr.dev.
+_acme-challenge.sibr-03-hetzner 1800 IN NS sibr-03-hetzner.sibr.dev.
 
 ; servers
 ; secondary (carol revenant)
