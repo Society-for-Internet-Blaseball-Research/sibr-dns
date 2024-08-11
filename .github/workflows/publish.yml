@@ -8,7 +8,7 @@ jobs:
     name: Publish sibr.dev
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - env:
           GANDI_API_KEY: ${{ secrets.GANDI_API_KEY }}
         run: bin/gandi.sh sibr.dev
