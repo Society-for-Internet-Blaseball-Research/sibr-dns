@@ -5,10 +5,12 @@ on:
       - live
 jobs:
   publish:
-    name: Publish sibr.dev
+    name: Publish zones
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - env:
           GANDI_PAT: ${{ secrets.GANDI_PAT }}
-        run: bin/gandi.sh sibr.dev
+        run: |
+          bin/gandi.sh sibr.dev
+          bin/gandi.sh blaseball-reference.com
