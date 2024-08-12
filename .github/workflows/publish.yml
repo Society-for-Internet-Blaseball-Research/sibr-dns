@@ -14,3 +14,4 @@ jobs:
         run: |
           bin/gandi.sh sibr.dev
           bin/gandi.sh blaseball-reference.com
+          bin/gandi.sh blaseball.news

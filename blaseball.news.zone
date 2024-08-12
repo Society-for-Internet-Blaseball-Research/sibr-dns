@@ -1,0 +1,9 @@
+@ 86400 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1234567891 10800 3600 604800 10800
+
+@ 1800 IN ALIAS server.sibr.dev.
+www 1800 IN CNAME server.sibr.dev.
+
+@ 300 IN MX 1 mail.blaseball.news.
+@ 300 IN TXT "v=spf1 mx ~all"
+mail 300 IN CNAME dogbone.sibr.dev.
+news_mail._domainkey 300 IN TXT "v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAybZ4pTnKk+5sLJ44wOBN2prUq68sOROgNib+FVcuT0dgBO2/193uMs701oNErutQgxxe1sMUckiswL" "A34D03diuKgj87cxyVwcSwvm7Oxhm1G6ZbgUnr4WA7iGE8yNg/Fhu7OFPeE/PTw3Sq+io3QIQM4hEW7jKDF4/cqJjEmaVDFsXpsbZDTCUHzoMtUUfbDB1STD+X14sIiXqTlLnBm1GAyk62QfHGQ9hp" "WzP49mvvOeHHTAq/W+sXGbI7dRzyCtFFIz+1cLW9uhoM9tw8KhsG1J7EWBs7vxlNLCH6Q7WWYnXRPvwuBRkf44AtxOH0UxEcJ+LBXtEv2WQd6ezffwIDAQAB"
