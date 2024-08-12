@@ -7,6 +7,8 @@ www 1800 IN A 76.76.21.164
 * 1800 IN A 76.76.21.164
 * 1800 IN A 76.76.21.123
 
+_acme-challenge 1800 IN NS sibr-03-hetzner.sibr.dev.
+
 api 1800 IN CNAME datablase.sibr.dev.
 files 1800 IN CNAME server.sibr.dev.
 research 1800 IN CNAME server.sibr.dev.
