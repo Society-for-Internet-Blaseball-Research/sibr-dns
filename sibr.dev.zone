@@ -28,10 +28,6 @@ rev 1800 IN CNAME secondary.sibr.dev.
 emily-dogbone 1800 IN CNAME primary.sibr.dev.
 dogbone 1800 IN CNAME primary.sibr.dev.
 bone 1800 IN CNAME primary.sibr.dev.
-; storage box (magma gomes)
-magma-gomes 1800 IN CNAME u292188.your-storagebox.de.
-gomes 1800 IN CNAME u292188.your-storagebox.de.
-magma 1800 IN CNAME u292188.your-storagebox.de.
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
 astrology 1800 IN CNAME cname.vercel-dns.com.
@@ -101,18 +97,6 @@ tiny 1800 IN CNAME secondary.sibr.dev.
 traefik 300 IN CNAME server.sibr.dev.
 traefik-secondary 300 IN CNAME primary.sibr.dev.
 wordpress-test 1800 IN CNAME server.sibr.dev.
-
-; Old:
-; prometheus 1800 IN CNAME primary.sibr.dev.
-; prometheus-secondary 1800 IN CNAME secondary.sibr.dev.
-; grafana 1800 IN CNAME primary.sibr.dev.
-; grafana-secondary 1800 IN CNAME secondary.sibr.dev.
-; proxy 1800 IN CNAME server.sibr.dev.
-; internal-wiki 300 IN CNAME server.sibr.dev.
-; cardstock 1800 IN CNAME primary.sibr.dev.
-; cors-test 1800 IN CNAME server.sibr.dev.
-; corsmechanics 300 IN CNAME server.sibr.dev.
-; fed 1800 IN CNAME secondary.sibr.dev.
 
 vote 1800 IN CNAME vote.beefox.xyz.
 
