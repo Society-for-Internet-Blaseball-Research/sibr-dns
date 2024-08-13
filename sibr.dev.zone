@@ -31,6 +31,7 @@ bone 1800 IN CNAME primary.sibr.dev.
 
 ; CNAMES Ordered alphabetically by destination then alphabetically by subdomain
 astrology 1800 IN CNAME cname.vercel-dns.com.
+crisp 300 IN CNAME crisp.belgard.online.
 docs 1800 IN CNAME ingress.stoplight.io.
 blases-loaded 1800 IN CNAME rangerrick.github.io.
 reblase 1800 IN CNAME reblase.netlify.app.
@@ -61,7 +62,6 @@ blog 1800 IN CNAME secondary.sibr.dev.
 bricks 1800 IN CNAME primary.sibr.dev.
 cachet 300 IN CNAME server.sibr.dev.
 crimes 300 IN CNAME server.sibr.dev.
-crisp 300 IN CNAME secondary.sibr.dev.
 csv 300 IN CNAME sibr-03-hetzner
 compendium 300 IN CNAME sibr-03-hetzner
 datablase 300 IN CNAME sibr-03-hetzner
