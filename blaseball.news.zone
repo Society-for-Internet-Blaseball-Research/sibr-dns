@@ -1,7 +1,7 @@
 @ 86400 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1234567891 10800 3600 604800 10800
 
-@ 1800 IN ALIAS server.sibr.dev.
-www 1800 IN CNAME server.sibr.dev.
+@ 1800 IN ALIAS society-for-internet-blaseball-research.github.io.
+www 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 
 @ 300 IN MX 1 mail.blaseball.news.
 @ 300 IN TXT "v=spf1 mx ~all"
