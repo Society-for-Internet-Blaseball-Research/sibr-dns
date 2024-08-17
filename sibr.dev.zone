@@ -74,7 +74,6 @@ hloroscopes 300 IN CNAME sibr-03-hetzner
 jq 300 IN CNAME sibr-03-hetzner
 levels 300 IN CNAME sibr-03-hetzner
 mail 1800 IN CNAME primary.sibr.dev.
-matomo 300 IN CNAME server.sibr.dev.
 netdata 300 IN CNAME server.sibr.dev.
 netdata.secondary 300 IN CNAME secondary.sibr.dev.
 netdata.primary 300 IN CNAME primary.sibr.dev.
