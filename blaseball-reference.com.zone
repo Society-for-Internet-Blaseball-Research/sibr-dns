@@ -11,7 +11,7 @@ _acme-challenge 1800 IN NS sibr-03-hetzner.sibr.dev.
 
 api 1800 IN CNAME datablase.sibr.dev.
 files 1800 IN CNAME sibr-03-hetzner.sibr.dev.
-research 1800 IN CNAME server.sibr.dev.
+research 1800 IN CNAME sibr-03-hetzner.sibr.dev.
 
 @ 1800 IN CAA 0 issue "letsencrypt.org"
 @ 1800 IN CAA 0 issue "amazon.com"
