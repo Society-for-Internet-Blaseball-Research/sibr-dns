@@ -89,6 +89,7 @@ sclorigami 300 IN CNAME server.sibr.dev.
 shleets 1800 IN CNAME server.sibr.dev.
 simsim 300 IN CNAME server.sibr.dev.
 snacks 300 IN CNAME server.sibr.dev.
+stacks 300 IN CNAME sibr-03-hetzner
 stadium-viewer 300 IN CNAME server.sibr.dev.
 surveys 300 IN CNAME server.sibr.dev.
 telnet 300 IN CNAME sibr-03-hetzner
