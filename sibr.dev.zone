@@ -68,7 +68,7 @@ discord 1800 IN CNAME sibr-03-hetzner
 etr 1800 IN CNAME sibr-03-hetzner
 faculty 600 IN CNAME primary.sibr.dev.
 files 600 IN CNAME primary.sibr.dev.
-glolfwiki 300 IN CNAME server.sibr.dev.
+glolfwiki 300 IN CNAME sibr-03-hetzner
 highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME sibr-03-hetzner
 jq 300 IN CNAME sibr-03-hetzner
