@@ -59,7 +59,7 @@ api2 1800 IN CNAME primary.sibr.dev.
 api-test 300 IN CNAME sibr-03-hetzner
 before 300 IN CNAME sibr-03-hetzner
 blog 1800 IN CNAME sibr-03-hetzner
-bricks 1800 IN CNAME primary.sibr.dev.
+bricks 1800 IN CNAME sibr-03-hetzner
 csv 300 IN CNAME sibr-03-hetzner
 compendium 300 IN CNAME sibr-03-hetzner
 datablase 300 IN CNAME sibr-03-hetzner
