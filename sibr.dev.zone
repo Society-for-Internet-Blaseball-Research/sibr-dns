@@ -55,7 +55,7 @@ tome 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vibecheck 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 
 api 300 IN CNAME sibr-03-hetzner
-api2 1800 IN CNAME primary.sibr.dev.
+api2 300 IN CNAME primary.sibr.dev.
 api-test 300 IN CNAME sibr-03-hetzner
 before 300 IN CNAME sibr-03-hetzner
 blog 1800 IN CNAME sibr-03-hetzner
@@ -65,8 +65,8 @@ compendium 300 IN CNAME sibr-03-hetzner
 datablase 300 IN CNAME sibr-03-hetzner
 discord 1800 IN CNAME sibr-03-hetzner
 etr 1800 IN CNAME sibr-03-hetzner
-faculty 600 IN CNAME primary.sibr.dev.
-files 600 IN CNAME primary.sibr.dev.
+faculty 300 IN CNAME primary.sibr.dev.
+files 300 IN CNAME primary.sibr.dev.
 glolfwiki 300 IN CNAME sibr-03-hetzner
 highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME sibr-03-hetzner
@@ -76,7 +76,7 @@ netdata.primary 300 IN CNAME primary.sibr.dev.
 onomancer 300 IN A 95.217.234.173
 oracle 300 IN CNAME sibr-03-hetzner
 pgadmin 300 IN CNAME sibr-03-hetzner
-plausible 1800 IN CNAME primary.sibr.dev.
+plausible 300 IN CNAME primary.sibr.dev.
 sclorigami 300 IN CNAME sibr-03-hetzner
 simsim 300 IN CNAME sibr-03-hetzner
 snacks 300 IN CNAME sibr-03-hetzner
@@ -85,6 +85,7 @@ stadium-viewer 300 IN CNAME sibr-03-hetzner
 surveys 300 IN CNAME sibr-03-hetzner
 telnet 300 IN CNAME sibr-03-hetzner
 tiny 1800 IN CNAME sibr-03-hetzner
+traefik-secondary 300 IN CNAME primary.sibr.dev.
 
 vote 1800 IN CNAME vote.beefox.xyz.
 
