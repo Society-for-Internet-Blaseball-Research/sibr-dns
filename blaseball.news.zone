@@ -5,10 +5,7 @@ www 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 
 @ 300 IN MX 10 mx1.forwardemail.net.
 @ 300 IN MX 10 mx2.forwardemail.net.
-; regenerate this with parker/scripts/postoffice_records.py
-@ 300 IN TXT "forward-email=ZjA4ODMxNzRlMzhjYmMzMy1kY2VmNWY0NDMyODYxYTI4MDEwYWM2OGNiMjczNTJjYzI0OTIxMTZlYTA3OGY1MGRjMTdlZWJkYjAzN2E4NDM0NjIzZDY3Mzc5OTc3ZmI5ZTc3ZTFjOGYwYjBhZDJmYTBjN2Y4NjNhZDc3MTI1YzZjMzRiMTk3YjU4OGQ4ZjJiZjYyMDYzMzMzNmJlYWQwNThiOGI0MDY3Yjg2NTkyYzRlOGFhN" "mY1M2Y2OWE4MjFiNTE0ODNhNjI5Yzc5MmI3YjIxNTkyZmJjOWNmM2ZhMDM5ZDI4OTliMWE5NDdjMGFiODU1MjllMDYxZjdkODkyZDcwMWZjYWZjMTJiN2NjMjZkZGNmZjQ2ZTE3NWRiOTgxMWJjOGZhZTZiNDgzMWEwZTJkNDI1OWJlY2JlM2I3ODFjZjJjY2RiZDI0NzBhZWEwNTM5MDQ4YzYzYTI1MzAyODdkMDhiNGVkM2RhNzIzOThmZjE1" "ZmIxMDYzYjkyNGEwZTM5NDg5MWEzZDM1ZDA5ODQ2ZDk3NDY5MzE2OGNhZjI3MWUzYzFmOWMyMDEzMGU3Zg=="
 ; this domain is on iliana's forwardemail.net account; this is necessary
-; because .news can't be used with forwardemail.net for free
+; because .news can't be used with forwardemail.net for free. reach out to
+; xer to change aliases
 @ 300 IN TXT "forward-email-site-verification=wrutighO23"
-
-news_mail._domainkey 300 IN TXT "v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAybZ4pTnKk+5sLJ44wOBN2prUq68sOROgNib+FVcuT0dgBO2/193uMs701oNErutQgxxe1sMUckiswL" "A34D03diuKgj87cxyVwcSwvm7Oxhm1G6ZbgUnr4WA7iGE8yNg/Fhu7OFPeE/PTw3Sq+io3QIQM4hEW7jKDF4/cqJjEmaVDFsXpsbZDTCUHzoMtUUfbDB1STD+X14sIiXqTlLnBm1GAyk62QfHGQ9hp" "WzP49mvvOeHHTAq/W+sXGbI7dRzyCtFFIz+1cLW9uhoM9tw8KhsG1J7EWBs7vxlNLCH6Q7WWYnXRPvwuBRkf44AtxOH0UxEcJ+LBXtEv2WQd6ezffwIDAQAB"
