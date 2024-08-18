@@ -72,7 +72,6 @@ highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME sibr-03-hetzner
 jq 300 IN CNAME sibr-03-hetzner
 levels 300 IN CNAME sibr-03-hetzner
-mail 1800 IN CNAME primary.sibr.dev.
 netdata.primary 300 IN CNAME primary.sibr.dev.
 onomancer 300 IN A 95.217.234.173
 oracle 300 IN CNAME sibr-03-hetzner
