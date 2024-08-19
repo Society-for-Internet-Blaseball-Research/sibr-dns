@@ -1,9 +1,5 @@
 @ 86400 IN SOA ns1.gandi.net. hostmaster.gandi.net. 1234567891 10800 3600 604800 10800
 
-server 1800 IN A 46.4.52.89
-server-v6 1800 IN AAAA 2a01:4f8:140:1223::2
-secondary 1800 IN A 46.4.52.89
-secondary-v6 1800 IN AAAA 2a01:4f8:140:1223::2
 primary 1800 IN A 168.119.145.210
 primary-v6 1800 IN AAAA 2a01:4f8:251:8de::2
 
@@ -17,10 +13,6 @@ _acme-challenge 1800 IN NS sibr-03-hetzner.sibr.dev.
 _acme-challenge.sibr-03-hetzner 1800 IN NS sibr-03-hetzner.sibr.dev.
 
 ; servers
-; secondary (carol revenant)
-carol-revenant 1800 IN CNAME secondary.sibr.dev.
-revenant 1800 IN CNAME secondary.sibr.dev.
-rev 1800 IN CNAME secondary.sibr.dev.
 ; primary (emily dogbone)
 emily-dogbone 1800 IN CNAME primary.sibr.dev.
 dogbone 1800 IN CNAME primary.sibr.dev.
