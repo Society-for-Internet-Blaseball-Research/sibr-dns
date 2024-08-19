@@ -64,8 +64,8 @@ compendium 300 IN CNAME sibr-03-hetzner
 datablase 300 IN CNAME sibr-03-hetzner
 discord 1800 IN CNAME sibr-03-hetzner
 etr 1800 IN CNAME sibr-03-hetzner
-faculty 300 IN CNAME primary.sibr.dev.
-files 300 IN CNAME primary.sibr.dev.
+faculty 300 IN CNAME sibr-03-hetzner
+files 300 IN CNAME sibr-03-hetzner
 glolfwiki 300 IN CNAME sibr-03-hetzner
 highlights 300 IN CNAME primary.sibr.dev.
 hloroscopes 300 IN CNAME sibr-03-hetzner
