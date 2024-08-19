@@ -46,7 +46,7 @@ tome 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 vibecheck 1800 IN CNAME society-for-internet-blaseball-research.github.io.
 
 api 300 IN CNAME sibr-03-hetzner
-api2 300 IN CNAME primary.sibr.dev.
+api2 300 IN CNAME sibr-03-hetzner
 api-test 300 IN CNAME sibr-03-hetzner
 before 300 IN CNAME sibr-03-hetzner
 blog 1800 IN CNAME sibr-03-hetzner
