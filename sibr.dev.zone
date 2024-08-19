@@ -59,7 +59,7 @@ etr 1800 IN CNAME sibr-03-hetzner
 faculty 300 IN CNAME sibr-03-hetzner
 files 300 IN CNAME sibr-03-hetzner
 glolfwiki 300 IN CNAME sibr-03-hetzner
-highlights 300 IN CNAME primary.sibr.dev.
+highlights 300 IN CNAME sibr-03-hetzner
 hloroscopes 300 IN CNAME sibr-03-hetzner
 jq 300 IN CNAME sibr-03-hetzner
 levels 300 IN CNAME sibr-03-hetzner
