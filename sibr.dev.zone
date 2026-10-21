@@ -56,6 +56,7 @@ jq 300 IN CNAME sibr-03-hetzner
 levels 300 IN CNAME sibr-03-hetzner
 onomancer 300 IN A 95.217.234.173
 oracle 300 IN CNAME sibr-03-hetzner
+outage 300 IN CNAME sibr-03-hetzner
 pgadmin 300 IN CNAME sibr-03-hetzner
 research 300 IN CNAME sibr-03-hetzner
 sclorigami 300 IN CNAME sibr-03-hetzner
